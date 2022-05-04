@@ -41,11 +41,26 @@ p {
 @media (max-width: 576px) {
   .intro-heading {
     text-align: center;
+    font-size: 30px;
+  }
+
+  h2 {
+    text-align: center;
     font-size: 26px;
+  }
+
+  p {
+    font-size: 14px;
   }
 
   .img-fluid {
     display: none;
+  }
+
+  .launch-button {
+    font-size: 12px;
+    padding: 10px;
+    justify-content: center;
   }
 }
 
