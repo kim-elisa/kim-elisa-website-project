@@ -38,16 +38,6 @@ p {
   text-align: center;
 }
 
-@media (max-width: 576px) {
-  .img-fluid {
-    display: none;
-  }
-  .intro-heading {
-    text-align: center;
-    font-size: 26px;
-  }
-}
-
 .yoga-section,
 .weather-section,
 .yoghurt-section {
